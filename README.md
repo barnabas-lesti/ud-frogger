@@ -1,5 +1,5 @@
 # Object-Oriented JavaScript practice
-* ![Showcase](/demo.jpg?raw=true "Optional Title")
+![Showcase](/demo.jpg?raw=true "Optional Title")
 
 This project was made for the [Object-Oriented JavaScript course by Udacity](https://www.udacity.com/course/viewer#!/c-ud015/l-2593668697/m-2955818684).
 
